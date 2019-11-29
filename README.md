@@ -1,2 +1,2 @@
 # PPTrainer
-Basic structure of the PP training tool
+Basic structure of the Ping Pong training tool
